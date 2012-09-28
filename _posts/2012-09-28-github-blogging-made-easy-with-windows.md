@@ -36,7 +36,6 @@ You're no more hacker, just blindly do this!
 
  - Open command prompt and navigate to the toolkit installation location (mostly `C:\DevKit` ) and execute the following commands
 
-
     	ruby dk.rb init
     	ruby dk.rb install
 
