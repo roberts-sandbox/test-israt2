@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>iSpeak Code - @sarat's tech blog</title>
+ <!--link href="http://tom.preston-werner.com/atom.xml" rel="self"/-->
+ <link href="http://sarat.in/"/>
+ <updated>2012-09-28T15:20:27+05:30</updated>
+ <id>http://sarat.in/</id>
+ <author>
+   <name>Sarath</name>
+ </author>
+
+ 
+ <entry>
+   <title>GitHub blogging made easy with Windows</title>
+   <link href="http://sarat.in/Blogging/2012/09/28/github-blogging-made-easy-with-windows.html"/>
+   <updated>2012-09-28T13:35:00+05:30</updated>
+   <id>http://sarat.in/Blogging/2012/09/28/github-blogging-made-easy-with-windows</id>
+   <content type="html">&lt;p&gt;I rethought after the previous post I made about blogging fundamentals with github. I am lazy and tackled it better now! I learned the art of copying and make it happen rather than taking up all the pain to generate someone else created (using &lt;a href=&quot;http://octopress.org/&quot;&gt;Octopress&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;In the previous &lt;a href=&quot;http://sarat.in/Blogging/2012/08/23/setting-up-new-octpress-with-github-for-blogging.html&quot;&gt;post&lt;/a&gt;, I explained about setting up a github blog with Octopress. Octopress is an excellent framework over github Pages (&lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;But setting up ruby, gems, rakes etc are not so easy with Windows. It's not really impossible but as you know the open source world and&lt;/p&gt;
+
+&lt;h3&gt;I am no Ruby Developer&lt;/h3&gt;
+
+&lt;p&gt;I am reinforcing this point. I am no ruby developer and not big understanding on the frameworks and the tools coming with Ruby. I am in the process of learning it.&lt;/p&gt;
+
+&lt;h3&gt;Ubuntu Linux - The tough choice&lt;/h3&gt;
+
+&lt;p&gt;It's really heaven for programmers, I mentioned in the previous post! Whatever you need simply works there, just matter of few commands. Not really painful like windows to set it up. I am not a full time Linux desktop user. So it's expensive to spawn a Linux Virtual machine whenever I need to make a post. So I wanted to throw away my own itch!&lt;/p&gt;
+
+&lt;h3&gt;The setup&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;This is fundamental, GitHub allows you create your own blog based on a github repository&lt;/em&gt;. Plus they provides, a custom domain mapping to your blow as well. github pages implemented using Jekyll, a blog aware static site generator tool created by the founder of github, &lt;a href=&quot;http://tom.preston-werner.com/&quot;&gt;Tom Preston-Werner&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Your own homepage can be created with your username[there are other variations as well, like pages for the projects but let's focus on personal blog). &lt;code&gt;github.com/username/username.github.com&lt;/code&gt; (replace username with your username).&lt;/p&gt;
+
+&lt;h3&gt;The windows way to work with Jekyll&lt;/h3&gt;
+
+&lt;p&gt;You're no more hacker, just blindly do this!&lt;/p&gt;
+
+&lt;h3&gt;Pre Requisites&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://rubyinstaller.org/&quot;&gt;RubyInstaller for Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ruby &lt;a href=&quot;http://rubyinstaller.org/&quot;&gt;Installer DevKit&lt;/a&gt; (go to the end of the the page you can find a 7-Zip self extracting archive&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Setup&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Install both the per-requisites. Better opt for &lt;code&gt;C:\DevKit&lt;/code&gt; for the installation. Or choose a place where you can easily remember&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Open command prompt and navigate to the toolkit installation location (mostly &lt;code&gt;C:\DevKit&lt;/code&gt; ) and execute the following commands&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;```ruby&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    ruby dk.rb init
+    ruby dk.rb install
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;Now execute the following commands as well to install Jekyll&lt;/p&gt;
+
+&lt;p&gt;```ruby&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;gem install jekyll
+gem install RedCloth
+gem install rdiscount   
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;NOTE: If you're accessing Internet via the proxy, please set &lt;code&gt;HTTP_PROXY&lt;/code&gt; variable as follows&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;set HTTP_PROXY=http://proxy:port/&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3&gt;Now Steal the code&lt;/h3&gt;
+
+&lt;p&gt;You can use github for windows to easily clone the repository to your local machine.&lt;/p&gt;
+
+&lt;p&gt;You can fork the code from &lt;a href=&quot;https://github.com/mojombo/mojombo.github.com&quot;&gt;mojombo.github.com&lt;/a&gt;. Check the copyright information before using.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, there's a clean version of Tom Preston's theme which can act as the &lt;a href=&quot;https://github.com/xpaulbettsx/blogstrap&quot;&gt;bare minimum template&lt;/a&gt; for your github blog&lt;/p&gt;
+
+&lt;h3&gt;Setup repository on github&lt;/h3&gt;
+
+&lt;p&gt;Go ahead and create your repository on &lt;code&gt;github.com&lt;/code&gt; with the name &lt;code&gt;username.github.com&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Now copy the forked blog code to your local archive and I am really shame on you if you don't delete the whole posts created by the users who made the original blog. You can navigate to the _post folder and delete the old posts.&lt;/p&gt;
+
+&lt;h3&gt;Basics of blogging&lt;/h3&gt;
+
+&lt;p&gt;I prefer hand written posts with some simple text editor. Navigate to _post folder and create a .md file with the following format as file name&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;YYYY-MM-DD-Post-title.md&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;e.g
+&lt;code&gt;2012-09-28-Easy-Way-to-setup-blog-with-github-on-windows.md&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;You can learn about the basics of markup here.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Setting up Octopress and Github for blogging.</title>
+   <link href="http://sarat.in/Blogging/2012/08/23/setting-up-new-octpress-with-github-for-blogging.html"/>
+   <updated>2012-08-23T01:09:00+05:30</updated>
+   <id>http://sarat.in/Blogging/2012/08/23/setting-up-new-octpress-with-github-for-blogging</id>
+   <content type="html">&lt;p&gt;Finally I setup my octopress blog. I had some pain initially but once after I solved the issues, I found it's pretty simple and stable. Mind it, it's hackers way of blogging. You won't have the luxury of what blogger and wordpress offers but this has got highest amount of flexibility on your content.&lt;/p&gt;
+
+&lt;p&gt;All the following instructions are detailed well in the &lt;a href=&quot;http://octopress.org/docs/blogging/&quot;&gt;Octopress Documentation Page&lt;/a&gt;. This is kind of excerpt/fundamental setup I went through to setup the blog.&lt;/p&gt;
+
+&lt;h3&gt;I am no Ruby Developer&lt;/h3&gt;
+
+&lt;p&gt;This was the hectic part. As usual I started with Windows, and realized that it's really painful. I tried installing Rails Installer and Ruby Installer. It was so painful to setup the rbenv and gem installer mentioned in the Octopress setup page. Even using Cygwin could not help me to move further. So I went ahead with Linux VM installed locally in my Windows machine&lt;/p&gt;
+
+&lt;h3&gt;Ubuntu Linux - The choice&lt;/h3&gt;
+
+&lt;p&gt;It's really heaven. I was able to work well with the instructions mentioned in the Octopress setup. Also I realized not to call myself as a hacker without a linux box.&lt;/p&gt;
+
+&lt;h3&gt;The setup&lt;/h3&gt;
+
+&lt;p&gt;Github allows you to setup your own homepage by creating a respository with your username. &lt;code&gt;github.com/username/username.github.com&lt;/code&gt; (replace username with your username).&lt;/p&gt;
+
+&lt;p&gt;Also you can setup as a project page with any of the projects you create with GitHub. What I am explaining here is setting up GitHub homepage as a blog.&lt;/p&gt;
+
+&lt;h3&gt;Installing Ruby&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Check your ruby version first with &lt;code&gt;ruby -v&lt;/code&gt; if the version is less than 1.9.3, &lt;a href=&quot;http://octopress.org/docs/setup/rbenv/&quot;&gt;then follow the instructions to update the ruby version&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Clone the Octopress source from GitHub. &lt;code&gt;git clone git://github.com/imathis/octopress.git octopress&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Move to octopress folder &lt;code&gt;cd octopress&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Execute the following commands&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;```ruby&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;gem install bundler
+rbenv rehash    # If you use rbenv, rehash to be able to run the bundle     command
+bundle install
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Now you're done with the default theme. Follow &lt;a href=&quot;http://octopress.org/docs/deploying/github/&quot;&gt;the instructions mentioned in the setup page&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;code&gt;rake setup_github_pages&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This is for username.github.com repository. For a other normal the setup is different and mentioned in the same page mentioned above.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;This is the most important step which we should understand&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;code&gt;ruby
+rake generate
+rake deploy
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Octopress is the repository cloned from a different user. Now this is your fundamental setup. The scripts and Jekyll frame work help you to generate the pages and push to your own repository. on rake deploy command, it will ask for the repository to push the generated files. All the actions are automated. You really don't need to bother about git commands just give the URL and the necessary changes will be made within the repository and the generated changes will be pushed. All you need to specify the git repository when prompted. The format will be mentioned in the prompt itself.&lt;/p&gt;
+
+&lt;h3&gt;The source branch&lt;/h3&gt;
+
+&lt;p&gt;The previous help you deploy the static pages, now you want your original framework and posts you created like a database backup. Hence add all the files&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ruby
+git add .
+git commit -a -m 'first commit'
+git push origin source
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This will push your original data to a source branch in repository. i.e the master contains the pages you generated and source branch is your template to generate them.&lt;/p&gt;
+
+&lt;h3&gt;configuring the blog&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://octopress.org/docs/blogging/&quot;&gt;See the configuration instruction here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The most important thing you've to notice is that, while adding twitter handler or Google analytics tracking code, please leave a space after ':' otherwise the page generation will fail.&lt;/p&gt;
+
+&lt;h3&gt;Basics of blogging&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://octopress.org/docs/blogging/&quot;&gt;The blogging basics are shared in detail at Octopres pages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Note that whatever the file you add using rake new_post[&quot;title&quot;] must be added separately to your archive and pushed to source for backing up. using rake gen_deploy will regenerate the pages and pushes to the archive.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
