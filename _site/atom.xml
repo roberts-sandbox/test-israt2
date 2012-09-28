@@ -4,7 +4,7 @@
  <title>iSpeak Code - @sarat's tech blog</title>
  <!--link href="http://tom.preston-werner.com/atom.xml" rel="self"/-->
  <link href="http://sarat.in/"/>
- <updated>2012-09-28T15:20:27+05:30</updated>
+ <updated>2012-09-28T16:01:18+05:30</updated>
  <id>http://sarat.in/</id>
  <author>
    <name>Sarath</name>
@@ -16,7 +16,7 @@
    <link href="http://sarat.in/Blogging/2012/09/28/github-blogging-made-easy-with-windows.html"/>
    <updated>2012-09-28T13:35:00+05:30</updated>
    <id>http://sarat.in/Blogging/2012/09/28/github-blogging-made-easy-with-windows</id>
-   <content type="html">&lt;p&gt;I rethought after the previous post I made about blogging fundamentals with github. I am lazy and tackled it better now! I learned the art of copying and make it happen rather than taking up all the pain to generate someone else created (using &lt;a href=&quot;http://octopress.org/&quot;&gt;Octopress&lt;/a&gt;)&lt;/p&gt;
+   <content type="html">&lt;p&gt;I rethought about after the previous post I made about blogging fundamentals with github. I am lazy and tackled it better now! I learned the art of copying and make it happen rather than taking up all the pain to generate someone else created (using &lt;a href=&quot;http://octopress.org/&quot;&gt;Octopress&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;In the previous &lt;a href=&quot;http://sarat.in/Blogging/2012/08/23/setting-up-new-octpress-with-github-for-blogging.html&quot;&gt;post&lt;/a&gt;, I explained about setting up a github blog with Octopress. Octopress is an excellent framework over github Pages (&lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;).&lt;/p&gt;
 
@@ -52,28 +52,20 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Install both the per-requisites. Better opt for &lt;code&gt;C:\DevKit&lt;/code&gt; for the installation. Or choose a place where you can easily remember&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Open command prompt and navigate to the toolkit installation location (mostly &lt;code&gt;C:\DevKit&lt;/code&gt; ) and execute the following commands&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Open command prompt and navigate to the toolkit installation location (mostly &lt;code&gt;C:\DevKit&lt;/code&gt; ) and execute the following commands&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; ruby dk.rb init
+ ruby dk.rb install
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;p&gt;```ruby&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;    ruby dk.rb init
-    ruby dk.rb install
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;```&lt;/p&gt;
-
 &lt;p&gt;Now execute the following commands as well to install Jekyll&lt;/p&gt;
-
-&lt;p&gt;```ruby&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;gem install jekyll
 gem install RedCloth
 gem install rdiscount   
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;```&lt;/p&gt;
 
 &lt;p&gt;NOTE: If you're accessing Internet via the proxy, please set &lt;code&gt;HTTP_PROXY&lt;/code&gt; variable as follows&lt;/p&gt;
 
@@ -102,7 +94,13 @@ gem install rdiscount
 &lt;p&gt;e.g
 &lt;code&gt;2012-09-28-Easy-Way-to-setup-blog-with-github-on-windows.md&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;You can learn about the basics of markup here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;The whole goodness of Jekyll based blogging you can learn here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy blogging!&lt;/p&gt;
+
+&lt;h3&gt;Thanks&lt;/h3&gt;
+
+&lt;p&gt;Finally thanks a million to &lt;a href=&quot;https://twitter.com/holman&quot;&gt;Zach Holman&lt;/a&gt; for the interesting conversation happened over twitter. &lt;a href=&quot;https://twitter.com/xpaulbettsx&quot;&gt;Paul Betts&lt;/a&gt; helped to lead to the bare minimum setup he made from &lt;a href=&quot;http://mojombo.github.com&quot;&gt;mojombo.github.com&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  

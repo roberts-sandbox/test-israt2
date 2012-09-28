@@ -32,7 +32,7 @@ var WRInitTime=(new Date()).getTime();
   </div>
   
   <div id="post">
-<p>I rethought after the previous post I made about blogging fundamentals with github. I am lazy and tackled it better now! I learned the art of copying and make it happen rather than taking up all the pain to generate someone else created (using <a href="http://octopress.org/">Octopress</a>)</p>
+<p>I rethought about after the previous post I made about blogging fundamentals with github. I am lazy and tackled it better now! I learned the art of copying and make it happen rather than taking up all the pain to generate someone else created (using <a href="http://octopress.org/">Octopress</a>)</p>
 
 <p>In the previous <a href="http://sarat.in/Blogging/2012/08/23/setting-up-new-octpress-with-github-for-blogging.html">post</a>, I explained about setting up a github blog with Octopress. Octopress is an excellent framework over github Pages (<a href="https://github.com/mojombo/jekyll">Jekyll</a>).</p>
 
@@ -68,28 +68,20 @@ var WRInitTime=(new Date()).getTime();
 
 <ul>
 <li><p>Install both the per-requisites. Better opt for <code>C:\DevKit</code> for the installation. Or choose a place where you can easily remember</p></li>
-<li><p>Open command prompt and navigate to the toolkit installation location (mostly <code>C:\DevKit</code> ) and execute the following commands</p></li>
+<li><p>Open command prompt and navigate to the toolkit installation location (mostly <code>C:\DevKit</code> ) and execute the following commands</p>
+
+<pre><code> ruby dk.rb init
+ ruby dk.rb install
+</code></pre></li>
 </ul>
 
 
-<p>```ruby</p>
-
-<pre><code>    ruby dk.rb init
-    ruby dk.rb install
-</code></pre>
-
-<p>```</p>
-
 <p>Now execute the following commands as well to install Jekyll</p>
-
-<p>```ruby</p>
 
 <pre><code>gem install jekyll
 gem install RedCloth
 gem install rdiscount   
 </code></pre>
-
-<p>```</p>
 
 <p>NOTE: If you're accessing Internet via the proxy, please set <code>HTTP_PROXY</code> variable as follows</p>
 
@@ -118,7 +110,13 @@ gem install rdiscount
 <p>e.g
 <code>2012-09-28-Easy-Way-to-setup-blog-with-github-on-windows.md</code></p>
 
-<p>You can learn about the basics of markup here.</p>
+<p><a href="https://github.com/mojombo/jekyll">The whole goodness of Jekyll based blogging you can learn here</a></p>
+
+<p>Happy blogging!</p>
+
+<h3>Thanks</h3>
+
+<p>Finally thanks a million to <a href="https://twitter.com/holman">Zach Holman</a> for the interesting conversation happened over twitter. <a href="https://twitter.com/xpaulbettsx">Paul Betts</a> helped to lead to the bare minimum setup he made from <a href="http://mojombo.github.com">mojombo.github.com</a></p>
 
 </div>
 
