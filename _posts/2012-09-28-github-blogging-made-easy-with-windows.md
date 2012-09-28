@@ -37,20 +37,14 @@ You're no more hacker, just blindly do this!
  - Open command prompt and navigate to the toolkit installation location (mostly `C:\DevKit` ) and execute the following commands
 
 
-```ruby
-
     	ruby dk.rb init
     	ruby dk.rb install
-```
 
 Now execute the following commands as well to install Jekyll
-
-```ruby
 
 	gem install jekyll
 	gem install RedCloth
 	gem install rdiscount	
-```
 
 NOTE: If you're accessing Internet via the proxy, please set `HTTP_PROXY` variable as follows
 
