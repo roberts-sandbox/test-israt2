@@ -6,7 +6,7 @@ comments: true
 categories: Blogging
 ---
 
-I rethought about the previous post I made on blogging fundamentals with github. I am lazy and tackled it better now! I learned the art of copying and make it happen rather than taking up all the pain to generate someone else created (using [Octopress](http://octopress.org/))
+The previous post I made on blogging fundamentals with github made rethink about the pain to setup and write a blog post. I am lazy and tackled it better now! I learned the art of copying and make it happen rather than taking up all the pain to generate someone else created (using [Octopress](http://octopress.org/))
 
 In the previous [post](http://sarat.in/Blogging/2012/08/23/setting-up-new-octpress-with-github-for-blogging.html), I explained about setting up a github blog with Octopress. Octopress is an excellent framework over github Pages ([Jekyll](https://github.com/mojombo/jekyll)).
 
