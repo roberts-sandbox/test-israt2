@@ -12,7 +12,7 @@ It's easy to test the site changes with the help of Jekyll. Running 'jekyll --se
 
 [Markpad](http://code52.org/DownmarkerWPF/) helps us great in this context. It's an [open source project hosted on github](https://github.com/Code52/DownmarkerWPF). The tool features an awesome Metro UI (Windows 8 style) and helps to easily integrate with Github repository. The integrated edit and publish makes easy. (I personally prefers to publish using the commandline/using Github for Windows)
 
-[image](http://code52.org/DownmarkerWPF/screenshot.png,"Markpad","Markpad")
+image(http://code52.org/DownmarkerWPF/screenshot.png,"Markpad","Markpad")
 
 Some of the major features 
 
