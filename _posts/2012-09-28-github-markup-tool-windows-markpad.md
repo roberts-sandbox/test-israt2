@@ -22,3 +22,5 @@ Portable, right out of the box. Everything is in a single executable.
  - Spellchecker - Markdown can be done in any text editor, but why must the experience degrade to Notepad? No more. MarkPad has spellchecker and a floating syntax tool bar
 
 Have a great blogging time!
+
+Screenshot taken from [code52](http://code52.org)
