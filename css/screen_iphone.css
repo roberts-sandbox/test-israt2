@@ -17,9 +17,9 @@ html, body {
 
 body {
     background-color: white;
-    /* font: Consolas, helvetica, arial, clean, sans-serif;*/
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 13.34px;
+    font-family: helvetica, arial, clean, sans-serif;
+    /*font-family: 'Source Sans Pro', sans-serif;*/
+    font-size: 24px;
     text-align: center;
 }
 
@@ -73,7 +73,7 @@ ul.posts {
 
     ul.posts span {
         color: #aaa;
-        font-family: Inconsolatas, Consolas, Monaco, "Courier New", monospace;
+        font-family: Monaco, "Courier New", monospace;
         font-size: 80%;
     }
 
@@ -84,7 +84,7 @@ ul.posts {
 /*****************************************************************************/
 
 .site {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 110%;
     text-align: justify;
     width: 40em;
@@ -93,7 +93,7 @@ ul.posts {
 }
 
 .title {
-    font-family: 'Ranchers', cursive;
+    font-family: 'AmericanTypewriter-Bold', cursive;
     color: #a00;
     font-weight: bold;
     margin-bottom: 2em;
