@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px) {
+
+	/* disable webkit text size adjust (for iPhone) */
+	html {
+		-webkit-text-size-adjust: none;
+	}
+
+	/* main nav */
+	#main-nav a {
+		font-size: 90%;
+		padding: 10px 8px;
+	}
+
+	body {
+    background-color: black;
+    /* font: Consolas, helvetica, arial, clean, sans-serif;*/
+    font-family: 'Courier New', sans-serif;
+    font-size: 34px;
+    text-align: center;
+	}
+}
