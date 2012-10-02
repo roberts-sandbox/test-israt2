@@ -3,19 +3,30 @@
 	/* disable webkit text size adjust (for iPhone) */
 	html {
 		-webkit-text-size-adjust: none;
-	}
-
-	/* main nav */
-	#main-nav a {
-		font-size: 90%;
-		padding: 10px 8px;
-	}
+	}	
 
 	body {
-    background-color: black;
-    /* font: Consolas, helvetica, arial, clean, sans-serif;*/
-    font-family: 'Courier New', sans-serif;
-    font-size: 34px;
-    text-align: center;
+		background-color: white;
+		font-family: Palatino, Helvetica, sans-serif;
+		/*font-family: 'Source Sans Pro', sans-serif;*/
+		font-size: 14px;
+		text-align: center;
 	}
+	
+	.site {
+		font-family: 'Helvetica', sans-serif;
+		font-size: 110%;
+		text-align: justify;
+		width: 40em;
+		margin: 3em auto 2em auto;
+		line-height: 1.5em;
+	}
+
+	.title {
+		font-family: 'AmericanTypewriter-Bold', cursive;
+		color: #a00;
+		font-weight: bold;
+		margin-bottom: 2em;
+	}
+
 }
