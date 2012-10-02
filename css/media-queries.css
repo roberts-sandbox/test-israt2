@@ -1,4 +1,4 @@
-@media screen and (max-width: 480px) {
+@media screen and (min-width: 480px) {
 
 	/* disable webkit text size adjust (for iPhone) */
 	html {
