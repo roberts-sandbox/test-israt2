@@ -1,80 +1,55 @@
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="viewport" content="width=device-width; initial-scale=1.0">
-    <meta name="description" content="Mostly technical writing by Sarath." />
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+		<meta name="description" content="Mostly technical writing by Sarath." />
 
-    <title>{{ page.title }}</title>
-    <meta name="author" content="@sarat" />
+		<title>{{ page.title }}</title>
+		<meta name="author" content="@sarat" />
 
-    <!-- syntax highlighting CSS -->
-    
-    <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+		<link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+		<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+		<link href="/css/media-queries.css" rel="stylesheet" type="text/css">    
+		<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro|PT+Sans|Patua+One' rel='stylesheet' type='text/css'>
+		
+	</head>
+	<body>
+		<section class="sidebar">
+			<a href="/">
+				<img src="images/sarat.jpg", width = 75", class="avatar"/>
+			</a>
+			<section class="name">
+				<a href="/">
+					<span id="sarat">Sarath</span>
+				</a>
+			</section>
+			
+			<section class="social">
+				<a href="http://github.com/isarat" class="ss-icon ss-social-circle">iSarath</a>
+				<a href="http://twitter.com/sarat" class="ss-icon ss-social-circle">sarat</a>
+			</section>
+			<section class="sections">
+				<li><a href="/about">about</a></li>
+			</section>
+		</section>
 
-    <!-- Homepage CSS -->
-    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-	<!-- Conditional CSS for devices -->
-    <link href="/css/media-queries.css" rel="stylesheet" type="text/css">    
-    <!-- End Conditional CSS for devices -->
-    <!--link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro|Ranchers' rel='stylesheet' type='text/css'-->
+		{{ content }}
 
-	<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro|PT+Sans|Patua+One' rel='stylesheet' type='text/css'>
-	
-</head>
-<body>
-    <!-- ClickTale Top part -->
-    <script type="text/javascript">
-        var WRInitTime = (new Date()).getTime();
-    </script>
-    <!-- ClickTale end of Top part -->
+		<a href="http://github.com/isarat">
+			<img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" />
+		</a>
 
-    <div class="site">
-        <div class="title">
-            <a href="/">@sarat</a>
-            <a class="extra" href="/">home</a>
-        </div>
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-2191463-7']);
+		  _gaq.push(['_trackPageview']);
 
-        {{ content }}
-  
-  <div class="footer">
-      <div class="contact">
-          <p>
-              <a href="http://github.com/isarat/">github.com/isarat</a><br />
-              <a href="http://twitter.com/sarat/">twitter.com/sarat</a><br />
-          </p>
-      </div>
-  </div>
-    </div>
-
-    <a href="http://github.com/isarat">
-        <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" />
-    </a>
-
-    <!-- ClickTale Bottom part -->
-    <div id="ClickTaleDiv" style="display: none;"></div>
-    <script type="text/javascript">
-        if (document.location.protocol != 'https:')
-            document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb.js'%20type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-        if (typeof ClickTale == 'function') ClickTale(206, 0.3, "www03");
-    </script>
-    <!-- ClickTale end of Bottom part -->
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2191463-7']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-</body>
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+	</body>
 </html>
