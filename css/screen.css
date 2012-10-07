@@ -47,14 +47,39 @@ body {
 			letter-spacing: 5px;
 			color: #000000;
 		}
+	}
+	.meta a {
+		margin-left: 5px;
+		color: #000000;
 		
-		.meta a {
-			margin-left: 5px;
-			color: #000000;
-			
+		&:hover {
+			color: #227CE8;
+		}
+	}
+	
+	.sections {
+		margin: 15px 0 0 0;
+
+		a {
+			padding: 3px 0;
+			color: $black;
+			font-weight: bold;
+			font-size: 12px;
+			display: block;
+
 			&:hover {
-				color: #227CE8;
+				color: $blue;
 			}
+		}
+
+		ul {
+			margin: 0;
+			padding: 0;
+		}
+
+		li {
+			list-style: none;
+			margin-bottom: 7px;
 		}
 	}
 }
