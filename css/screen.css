@@ -6,20 +6,12 @@ html, body {
     height: 100%;
 }
 
-$blue: #227CE8;
-$black: #000000;
-
-$serif:  'PT Sans', sans-serif;
-$sans: Helvetica, sans-serif;
-$headline: 'Patua One', cursive', $sans;
-$monocode: 'Source Code Pro', Consolas, monospace;
-
 * {
 }
 
 body {
     background-color: white;
-	font-family: $serif;
+	font-family: 'PT Sans', sans-serif;
     font-size: 15px;
     text-align: center;
 	-webkit-font-smoothing: antialiased;
@@ -30,7 +22,7 @@ body {
 	left: 15px;
 	top: 15px;
 	width: 80px;
-	font-family: $serif;
+	font-family: 'PT Sans', sans-serif;
 	
 	a {
 		text-decoration: none;
@@ -55,15 +47,15 @@ body {
 			padding-left: 1px;
 			font-size: 23px;
 			letter-spacing: 5px;
-			color: $black;
+			color: #000000;
 		}
 		
 		.meta a {
 			margin-left: 5px;
-			color: $black;
+			color: #000000;
 			
 			&:hover {
-				color: $blue;
+				color: #227CE8;
 			}
 		}
 	}
