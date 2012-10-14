@@ -6,7 +6,7 @@ comments: true
 categories: Thoughts
 ---
 
-I happened to read recently in some magazine that, Sufi-sm is about breaking the our comfort zone. I am not into religions but it's an interesting concept. Everyone lives in their comfort zone.
+I happened to read recently in some magazine that, Sufi-sm is about breaking our addicted comfort zone. I am not into religions but it's an interesting concept. Everyone lives in their comfort zone.
 
 Leaving the comfort zone is difficult especially once you become successful with your effort.  Steve Jobs said in his epic Stanford Commencement speech,
 
