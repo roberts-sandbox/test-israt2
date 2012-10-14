@@ -11,7 +11,7 @@ a {
   position: fixed;
   left: 15px;
   top: 15px;
-  width: 150px;
+  width: 80px;
   font-family: Helvetica, sans-serif; }
   .sidebar a {
     text-decoration: none; }
@@ -58,7 +58,7 @@ a {
       margin-bottom: 7px; }
 
 .content {
-  margin-left: 130px;
+  margin-left: 150px;
   width: 650px;
   margin-bottom: 50px; }
   .content h1 {
