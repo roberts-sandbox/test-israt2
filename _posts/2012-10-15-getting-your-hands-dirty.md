@@ -21,7 +21,7 @@ Steve Jobs is the most celebrated CEO in the world. Why people loves him? Gettin
 
 When Facebook was founded, Mark Zuckerberg would never thought of one fine day in October, 2012 his venture counts a billionth user! What he solved was the dilemma of social networks. What Facebook now is evolved through years!
 
-When [Jack Dorsey, sketched a simple idea in his notebook](http://m.flickr.com/#/photos/jackdorsey/182613360/sizes/l/) Twitter was born. Which is the most happening place in real-time. Twitter successfully brought the concept of real-time to the web. There were early attempts but Twitter made it so lucrative that everyone including facebook and Google wished if they could have the real-time engine like twitter.
+When [Jack Dorsey, sketched a simple idea in his notebook](http://m.flickr.com/#/photos/jackdorsey/182613360/sizes/l/) Twitter was born. It is the most happening place on the web in real-time. Twitter successfully brought the concept of real-time to the web. There were early attempts but Twitter made it so lucrative that everyone including facebook and Google wished if they could have the real-time engine like twitter.
 
 Elon Musk walks a different path. When he was done with the Internet entrepreneurship he wanted to think about improving the sad state of auto industry! Tesla Motors was born there. Later he thought outside earth and SpaceX was founded.
 
