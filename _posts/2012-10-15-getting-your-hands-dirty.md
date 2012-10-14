@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markpad - Markup editor for Windows"
+title: "Getting your hands dirty"
 date: 2:30 AM 10/15/2012
 comments: true
 categories: Thoughts
