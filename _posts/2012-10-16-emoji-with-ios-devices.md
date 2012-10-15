@@ -14,8 +14,8 @@ With the introduction of iOS6, Apple has introduced tons of emojis which can be 
 
 Here are the steps to add Emoji to your iOS devices
 
-<img src="images/posts/20121016/emoji-settings.png />
+<img src="images/20121016-emoji-settings.png />
 
 Now go ahead fire up your text app (or apps where you can type). Switch the keyboard by tapping on the Globe icon located at bottom left corner of your iOS Keyboard. Enjoy Emoji! :sunglasses:
 
-<img  src="images/posts/20121016/emoji-keyboard.png />
+<img src="images/20121016-emoji-keyboard.png />
