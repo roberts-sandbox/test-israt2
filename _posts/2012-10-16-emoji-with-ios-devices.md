@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Emoji with iOS devies"
+title: "Emoji with iOS devices"
 date: 12:30 PM 10/16/2012
 comments: true
 categories: iOS
