@@ -28,14 +28,14 @@ Internet explorer still the most popular browser in the world but it has bias to
 
 Firefox was launched with the intention to provide better browser experience. I am purposefully forgetting Opera, which walked all these path long time before but at wrong time and miserably failed. Tabbed browsing, highly useful extensions which can transform your experience and productivities to the next level.
 
-We thought Firefox is perfect to the world. We've see a major disruption with a speedy, safer and minimal browser called “Google Chrome”. Within short time, Chrome is close to Internet Explorer and soon gonna take over with the crown of “World's popular browser”.
+We thought Firefox is perfect to the world. We've see a major disruption with a speedy, safer and minimal browser called "Google Chrome". Within short time, Chrome is close to Internet Explorer and soon gonna take over with the crown of "World's popular browser".
 ## iPhone
 Ask me why I say iPhone as the most revolutionary product ever introduced by Apple.
 
-Both hardware and software introduced with iPhone was revolutionary. None of the phones then had the hardware features came along with iPhone like touch screen, no-hardware-keyboard, GPS, scratch proof glass, excellent platform which doesn't have the heaviness of Java. As Steve Jobs said “This phone is at least 5 years ahead of the existing smartphones” that's true. The first versions of Android phone software was more like a Java enabled phone. If Apple never set that standard for smartphones, smartphones never would have been the same.
+Both hardware and software introduced with iPhone was revolutionary. None of the phones then had the hardware features came along with iPhone like touch screen, no-hardware-keyboard, GPS, scratch proof glass, excellent platform which doesn't have the heaviness of Java. As Steve Jobs said "This phone is at least 5 years ahead of the existing smartphones" that's true. The first versions of Android phone software was more like a Java enabled phone. If Apple never set that standard for smartphones, smartphones never would have been the same.
 
 It's important to set these bars high by the right people at right time. Fortunately it had happened in tech industry all the time. The companies especially on getting bigger and bigger become more hypocractic and enjoy to live in their comfort zone without pushing themselves to the next level.
 
-As Steve Jobs mentioned once “We're world's biggest startup”. The passion to solve the problems and to give more to the world is timeless. The startup revolution has changed things a lot in the space.
+As Steve Jobs mentioned once "We're world's biggest startup". The passion to solve the problems and to give more to the world is timeless. The startup revolution has changed things a lot in the space.
 
 Now we are enjoying the next generation of experience. Cloud, mobile, tablets, rich Internet services, excellent user experience. Behind all these there are people who tirelessly trying to improve the world a better place. Let's support contribute and in one fine day let us all be revolutionists, eccentrics and the crazy one to change the world by setting new bar for future!
