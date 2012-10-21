@@ -6,7 +6,6 @@ comments: true
 categories: Thoughts
 ---
 
-##Raising the bar
 Nine years back, when I started my career, the shape of tech world was quite different. We've seen several new things success, failures, the startup revolution, mobile revolution, cloud revolution. So many are there to count.
 
 Arguably huge portion of the tech revolution was mostly connected to Apple, Google and Facebook. Let me start with this quote from the famous Think Different campaign.
