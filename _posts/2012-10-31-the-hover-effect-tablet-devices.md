@@ -16,7 +16,7 @@ For the first time ever I loved Samsung for this. With Galaxy Note 2, they've na
 
 ##AirView - an extended human interaction with touch devices
 
-The history says we need 'some accessories' or so called machines to achieve things faster. Adding up something with human abilities always helps us to achieve things faster. But for some purpose our bare hands are good enough. For e.g it's so weird to pull out the stylus to touch the UI elements on the screen. It's equally weird if you're using your bare hands with a touch device to draw something as a thick pointing finger can hide at least 25% of a 3.6” inch screen.
+The history says we need 'some accessories' or so called machines to achieve things faster. Adding up something with human abilities always helps us to achieve things faster. But for some purpose our bare hands are good enough. For e.g it's so weird to pull out the stylus to touch the UI elements on the screen. It's equally weird if you're using your bare hands with a touch device to draw something as a thick pointing finger can hide at least 25% of a 3.6" inch screen.
 
 With the first version of Galaxy Note, the s-pen was kind of another smart version of an old stylus. The device wasn't really attractive and the software in it simply sucked. The product wasn't really pitched right to the users but yeah it sold well I guess.
 
