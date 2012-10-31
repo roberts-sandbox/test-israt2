@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting your hands dirty"
+title: "Get your hands dirty"
 date: 2:30 AM 10/15/2012
 comments: true
 categories: Thoughts
@@ -13,11 +13,11 @@ Leaving the comfort zone is difficult especially once you become successful with
 > The heaviness of being successful was replaced with the lightness of being beginner again.
 
 Nobody really want their hands dirty. Why would need to hurt your comfort zone? If we observe carefully, the people who made their dirty consistently was almost right and rewarded later in their life.
-##Getting your hands dirty
+##Get your hands dirty
 
 There are several people in front of you Steve Jobs, Mark Zuckerberg, Google Founders, Jeff Bezos, Jack Dorsey, Elon Musk the lists are endless!
 
-Steve Jobs is the most celebrated CEO in the world. Why people loves him? Getting impressed with Steve Notes? No way! A person can't lie for long time even people say Steve Lie or the reality distortion field can drive you crazy! No!! a big no! he loved what he did. That he said several times. It's true that, "no one can in this world can make iPhone". On reading the stories, we can understand how much effort went behind to make things perfect at Apple. Steve got his hand dirty to save his company from bankruptcy. He knew that it's hard to tackle the PC market  which is hugely dominated by Microsoft. Rather selling hardware, he learned to consistently generate money by producing content (music for iPod) and make it easy to purchase. iTunes was a revolution for music industry. Later, he made MacBooks and iMacs to so compelling to by pulling people to beautifully designed Apple Store! Nobody attempted this before! He hand was really dirty when he attempted this later washed off everything and smiled at the world!
+Steve Jobs is the most celebrated CEO in the world. Why people loves him? Are you impressed with Steve Notes? No way! A person can't lie for long time even people say Steve Lie or the reality distortion field can drive you crazy! No!! a big no! he loved what he did. That he said several times. It's true that, "no one can in this world can make iPhone". On reading the stories, we can understand how much effort went behind to make things perfect at Apple. Steve got his hand dirty to save his company from bankruptcy. He knew that it's hard to tackle the PC market  which is hugely dominated by Microsoft. Rather selling hardware, he learned to consistently generate money by producing content (music for iPod) and make it easy to purchase. iTunes was a revolution for music industry. Later, he made MacBooks and iMacs to so compelling to by pulling people to beautifully designed Apple Store! Nobody attempted this before! He hand was really dirty when he attempted this later washed off everything and smiled at the world!
 
 When Facebook was founded, Mark Zuckerberg would never thought of one fine day in October, 2012 his venture counts a billionth user! What he solved was the dilemma of social networks. What Facebook now is evolved through years!
 
