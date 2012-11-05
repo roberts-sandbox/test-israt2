@@ -2,7 +2,7 @@
 layout: post
 title: "Setting up Octopress and Github for blogging."
 date: 2012-08-23 01:09
-comments: true
+comments: false
 categories: Blogging
 ---
 
@@ -31,12 +31,11 @@ Also you can setup as a project page with any of the projects you create with Gi
 
  4. Execute the following commands
 
-```ruby
-
+`
     gem install bundler
     rbenv rehash    # If you use rbenv, rehash to be able to run the bundle     command
     bundle install
-```
+`
 
  5. Now you're done with the default theme. Follow [the instructions mentioned in the setup page][3]
 
