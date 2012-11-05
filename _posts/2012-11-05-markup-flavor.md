@@ -16,7 +16,7 @@ Considering the amount I pay and the size of the blog. Setting up the blog was i
 
 The biggest pain was about writing something and posting it. Earlier version of Wordpress has poor editor, managing the media contents especially image insertion was a pain in the ass. It was improve a lot later but the web based editor of wordpress is an underdog. I was always skeptical about losing my writing though it has an save draft option. Windows Live Writer was a solid writer but often I faced some HTML code generation issue like code formatting etc. The Wordpress blog writing experience has been considerably improved  of late but the infrastructure woes bothered me a lot.
 
-Another point is about formatting code. With wordpress there are lot code formatting plugins are available. With some plugins it's easy to express without <pre> or <code> tag. Just enclose the code within the preffered keyword they mention. Once we move out of the plugin, the code format will be a different story.
+Another point is about formatting code. With wordpress there are lot code formatting plugins are available. With some plugins it's easy to express without `pre` or `code` tag. Just enclose the code within the preffered keyword they mention. Once we move out of the plugin, the code format will be a different story.
 
 Learning Jekyll and markup languages was awesome. I saw markup language before with Wikipedia but it's crippled. Markup originally invented by one of my favorite blogger [John Gruber](http://daringfireball.net/projects/markdown/). 
 
