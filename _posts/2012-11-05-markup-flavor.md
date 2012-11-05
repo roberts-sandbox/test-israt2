@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Markup Flavor"
-date: 12:50 AM 11/05/2012
+date: 10:01 PM 11/5/2012
 comments: false
-categories: 
-Technology
+categories: Technology
 ---
 
 I am a huge markup fan. It was one of the primary reasons behind moving to Jekyll powered GitHub (blog) pages. I explained about this on [recepie](http://sarat.in/recepie) in this page.
