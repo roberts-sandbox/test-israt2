@@ -45,10 +45,10 @@ This is for username.github.com repository. For a other normal the setup is diff
 
  6. This is the most important step which we should understand
 
-```ruby
+`
 rake generate
 rake deploy
-```
+`
 
 Octopress is the repository cloned from a different user. Now this is your fundamental setup. The scripts and Jekyll frame work help you to generate the pages and push to your own repository. on rake deploy command, it will ask for the repository to push the generated files. All the actions are automated. You really don't need to bother about git commands just give the URL and the necessary changes will be made within the repository and the generated changes will be pushed. All you need to specify the git repository when prompted. The format will be mentioned in the prompt itself.
 
@@ -56,11 +56,11 @@ Octopress is the repository cloned from a different user. Now this is your funda
 
 The previous help you deploy the static pages, now you want your original framework and posts you created like a database backup. Hence add all the files
 
-```ruby
+`
 git add .
 git commit -a -m 'first commit'
 git push origin source
-```
+`
 
 This will push your original data to a source branch in repository. i.e the master contains the pages you generated and source branch is your template to generate them.
 
