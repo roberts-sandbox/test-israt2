@@ -1,7 +1,7 @@
 ﻿<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>{{ page.title }}</title>
+  <title>Published Articles</title>
   <meta name="author" content="Sarath" />
   <meta name="description" content="Writings by Sarath." />
   <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/isarat" />
@@ -43,6 +43,8 @@
 		<section class="sections">
 		  <ul>
 			<li><a href="/about">about</a></li>
+			<li><a href="/recepie">recepie</a></li>
+			<li><a href="/articles">published articles</a></li>
 		  </ul>
 		</section>
 	</section>
@@ -108,76 +110,4 @@
 	  })();
 	</script>
 </body>
-
-</html>
-
-
----
-layout: layout
-title: "Articles"
----
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>{{ page.title }}</title>
-  <meta name="author" content="Sarath" />
-  <meta name="description" content="Writings by Sarath." />
-  <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/isarat" />
-  <link rel="stylesheet" href="/css/compiled/base.css" type="text/css" media="screen, projection" />
-  <link rel="stylesheet" href="/css/plugins/pygments.css" type="text/css" />
-  <link href="/webfonts/ss-social.css" rel="stylesheet" />
-  <link media="only screen and (max-device-width: 480px)" href="/css/compiled/iphone.css" type="text/css" rel="stylesheet" />
-  <link media="only screen and (device-width: 768px)" href="/css/compiled/iphone.css" type="text/css" rel="stylesheet" />
-  <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
-  <script type="text/javascript" src="/js/compiled/application.js"></script>
-  <script type="text/javascript">
-    $(document).ready(function() {
-      {{ page.script }}
-    });
-  </script>
-</head>
-
-<body>
-	<section class="sidebar">
-		<a href="/">
-		  <img src="/images/sarat_125.jpg" width="120" class="avatar" />
-		</a>
-
-		<section class="name">
-		  <a href="/">
-			<span id="sarat">Sarath</span>
-		  </a>
-		</section>
-
-		<section class="meta">
-		  <a href="https://twitter.com/sarat" class="ss-icon ss-social-circle">twitter</a>
-		  <a href="http://t.sarat.in" class="ss-icon ss-social-circle">tumblr</a>
-		  <a href="https://github.com/isarat" class="ss-icon ss-social-circle">github</a>
-		  <a href="http://feeds.feedburner.com/isarat" class="ss-icon ss-social-circle">rss</a>
-		</section>
-
-		<section class="sections">
-		  <ul>
-			<li><a href="/about">about</a></li>
-		  </ul>
-		</section>
-	</section>
-	
-	
-	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-2191463-7']);
-	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>
-</body>
-
 </html>
