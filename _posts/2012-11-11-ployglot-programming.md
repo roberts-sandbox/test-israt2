@@ -10,7 +10,7 @@ comments: true
   <p> If all you've is a hammer, everything looks like a nail.</p>
 </div>
 
-This is became one of my favorite quote ever since I found. I am hard core C++ programmer thoughout my career. People admits my expertise in C++ and Windows Platform knowledge. I started everything with C, then C++, then Visual C++ etc. My knowledge was sufficient enough to carry out most of my assignments. 
+This is became one of my favorite quote ever since I found. I am hard core C++ programmer thoughout my career. People admit my expertise in C++ and Windows Platform knowledge. I started everything with C, then C++, then Visual C++ etc. My knowledge was sufficient enough to carry out most of my assignments. 
 
 Most of the old programmers are comfortable with their investment made in the close-to-hardware languages (mostly learned before Web era). As the software becomes complex expert in one language can't help you much to work out a complex problem.
 
@@ -20,7 +20,7 @@ Languages like C, C++ has lot of pitfalls and some books like Effective C++ (Sco
 
 Some of the examples I recollect in this time, when I had to solve a university problems, I found writing it with C++ and data structures was really painful rather I preferred Python to solve the problem and it was wickedly fast.
 
-Another example would be, like integrating the web technology to customize UI and benefit the mature memory optimization other advantages of making use of a browser. Sorry to say, I can't use IE in any of my Software, but there are solutions avaialble to embed Chrome and Firefox within a Windows Application.
+Another example would be, like integrating the web technology to customize UI and benefit the mature memory optimization other advantages of making use of a browser. Sorry to say, I can't use IE in any of my Software, but there are solutions available to embed Chrome and Firefox within a Windows Application.
 
 <div class="aside">
   <p>Our job is to solve problems, not spoonfeed compilers, so we like dynamic languages that adapt to us, without arbitrary, rigid rules. We need clarity so we can communicate using our code. We value conciseness and the ability to express a requirement in code accurately and efficiently. The less code we write, the less that can go wrong. (And our wrists and fingers are thankful, too.)
@@ -28,7 +28,7 @@ Another example would be, like integrating the web technology to customize UI an
 <p><a href="http://www.ruby-doc.org/docs/ProgrammingRuby/"> Programming Ruby, The Pragmatic Programmer's Guide</a>
 </div>
 
-Interpretted languages can make your life so easy. It's equally important to get expertise in general-purpose compiled programming languages like C, C++ etc. Java and C# sitting in the middle of compiled and interpreted programming languages. These languages also offer some kind of dynamic behavior like interpreted languages. Larger projects tend to use multiple languages frameworks etc. in their project to solve problem efficiently and easily. Like WCF for communication WPF for UI, Windows Forms, C++ on server applications (whenever highest performance is required, HTML and Java for web user interfaces etc.
+Interpreted languages can make your life so easy. It's equally important to get expertise in general-purpose compiled programming languages like C, C++ etc. Java and C# sitting in the middle of compiled and interpreted programming languages. These languages also offer some kind of dynamic behavior like interpreted languages. Larger projects tend to use multiple languages frameworks etc. in their project to solve problem efficiently and easily. Like WCF for communication WPF for UI, Windows Forms, C++ on server applications (whenever highest performance is required, HTML and Java for web user interfaces etc.
 
 IMO, a programmer should get expertise in at least 3 programming languages like C, C++ second is C# or Java and interpreted languages like Python Ruby and as the landscape of the web is changing, it also good to get hands on with latest web technologies like HTML5, JavaScript etc.
 
