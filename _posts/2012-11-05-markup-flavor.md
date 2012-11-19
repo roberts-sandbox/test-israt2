@@ -6,7 +6,7 @@ comments: false
 categories: Technology
 ---
 
-I am a huge markup fan. It was one of the primary reasons behind moving to Jekyll powered GitHub (blog) pages. I explained about this on [recepie](http://sarat.in/recepie) in this page.
+I am a huge markup fan. It was one of the primary reasons behind moving to Jekyll powered GitHub (blog) pages. I explained about this on [colophon](http://sarat.in/recepie) in this page.
 
 Why markup. When I first saw markup based Question and answer boxes on Stackoverflow, I found it like why these guys are so much into a weird syntax. Almost all forums or Q&A website offers an HTML based box for formatting the text. 
 
