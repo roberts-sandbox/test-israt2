@@ -7,7 +7,7 @@ categories: Blogging
 ---
 
 Undoubtedly Code Complete (2) is the best book I ever read in my life about Software Engineering. It's truly a handbook for every software out there. The book is full of gems and stands against time on talking about the timeless concepts of Software Engineering. 
-In the book,  the very specific chapter “Personal Character”  is an  excellent piece of writing on Software Engineering. which nobody learns at school.
+In the book,  the very specific chapter "Personal Character"  is an  excellent piece of writing on Software Engineering. which nobody learns at school.
 
 I am scribbling down some of the interesting points I found in the chapter. Have a look!
 
