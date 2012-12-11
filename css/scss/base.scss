@@ -4,14 +4,14 @@ $light-grey: #eeeeee;
 $blue:       #227CE8;
 
 $serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$sans: Helvetica, sans-serif;
+$sans: "Open Sans", Helvetica, sans-serif;
 $headline: 'Yanone Kaffeesatz', $sans;
 
 * {
 }
 
 body {
-  font-family: $serif;
+  font-family: $sans;
   margin: 0;
   -webkit-font-smoothing: antialiased;
 }
