@@ -60,28 +60,28 @@ a {
   margin-bottom: 50px; }
   .content h1 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    font-family: "Open Sans", Helvetica, sans-serif;
     font-weight: 400; }
   .content h1 a {
     color: #111;
     text-decoration: none; }
   .content h2 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    font-family: "Open Sans", Helvetica, sans-serif;
     font-weight: 400; }
   .content h2 a {
     color: #111;
     text-decoration: none; }
   .content h3 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    font-family: "Open Sans", Helvetica, sans-serif;
     font-weight: 400; }
   .content h3 a {
     color: #111;
     text-decoration: none; }
   .content h4 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    font-family: "Open Sans", Helvetica, sans-serif;
     font-weight: 400; }
   .content h4 a {
     color: #111;
@@ -137,7 +137,7 @@ a {
       font-style: normal; }
   .content .byline {
     margin-bottom: 17px;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    font-family: "Open Sans", Helvetica, sans-serif;
     padding-left: 0px;
     font-size: 17px;
     color: #777; }
