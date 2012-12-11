@@ -144,11 +144,11 @@ a {
     font-size: 17px;
     color: #777; }
   .content .aside {
-    background-color: #eeeeee;
+    background-color: #B58900
     padding: 14px;
     font-size: 14px;
     margin: 5px 0 15px 0;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Open Sans', Helvetica, sans-serif;
     line-height: 1.6em; }
   .content .listing {
     margin: 10px 0 0 0;
