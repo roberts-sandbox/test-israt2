@@ -124,7 +124,7 @@ a {
   .content blockquote {
     font-family: "Palatino Linotype", Georgia, serif;
     font-style: italic;
-    font-size: 14px;
+    font-size: 16px;
     padding: .25em 1em;
     margin: 1em 1em 0 1em;
 	background-color: #FDF6E3;
@@ -144,8 +144,8 @@ a {
     font-size: 17px;
     color: #777; }
   .content .aside {
-    background-color: #FDF6E3
-	color: #B58900
+    background-color: #FDF6E3;
+	color: #B58900;
     padding: 14px;
     font-size: 14px;
     margin: 5px 0 15px 0;
