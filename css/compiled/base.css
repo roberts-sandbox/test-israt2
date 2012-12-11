@@ -127,8 +127,8 @@ a {
     font-size: 14px;
     padding: .25em 1em;
     margin: 1em 1em 0 1em;
-	background-color: #B58900;
-    color: #444; }
+	background-color: #FDF6E3;
+    color: #B58900; }
     .content blockquote cite:before {
       content: '— '; }
     .content blockquote cite {
@@ -144,7 +144,8 @@ a {
     font-size: 17px;
     color: #777; }
   .content .aside {
-    background-color: #B58900
+    background-color: #FDF6E3
+	color: #B58900
     padding: 14px;
     font-size: 14px;
     margin: 5px 0 15px 0;
