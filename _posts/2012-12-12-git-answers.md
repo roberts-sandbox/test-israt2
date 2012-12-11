@@ -16,3 +16,8 @@ I am not supposed to cover the fundamentals like git init, git add, git commit, 
 It's important to have a `.gitignore` file in your respository. A simple `git add .` adds the whole contents in the folder to your current repository. a `.gitignore` It helps to avoid the unnecessary (like compiler output etc.) to get added in your repository. Interestingly Github maintains a repository which contains the templats of .gitignore files for several languages available. You will have to customize it if your project using multiple languages or it hinders you from adding the required files. Basically it works for typical cases. Clone, keep and use it whenever required.
 
 [github/gitignore](https://github.com/github/gitignore)
+
+##Github for Windows
+It helps you to Clone,Repositories,Browse History,Commit Changes,Branch Code and Share on GitHub.com (as advertised on their website). The Metro style UI is really beautiful and this utility is very handy to work with GitHub.
+
+[Github for Windows](http://windows.github.com/)
