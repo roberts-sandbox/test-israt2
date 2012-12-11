@@ -25,13 +25,13 @@ Some of the best things I would remember is that, iPod, iPhone then the Mountain
 iPhone still claims to be the best phone in the world, iPad yet to find any serious competition, MacBook Airs and MacBook pros are being ballatantly copied by the copy cats and still thrive with their sales.
 On reading his biography I was getting more close to Steve. The dedication, the innovativeness, creativity nobody can ever think of coming from a CEO's point of view. The sheer guts to get what he wanted. The best example would be the iPhone name. Nobody still knows how the deals were made. Steve never signed in any deals with CISCO before taking iPhone to the stage. It might have been an expensive deal but doesn't matter. He has got his own ways to get things done. Mostly unconventional.
 
-I read one another book called “Insanely Simple: The Obsession That Drives Apple's Success” by Ken Segall. Though it appeared like fanboi written book, the stories on working with Steve was awesome.
+I read one another book called "Insanely Simple: The Obsession That Drives Apple's Success" by Ken Segall. Though it appeared like fanboi written book, the stories on working with Steve was awesome.
 
 I can't tell what all Steve did was right or not, but he suceeded with what all he did. Steve was never would be able to take failures. I could not find any single moment he failed in the last decade at least.
 
 I would like to quote few single liners before clossing this post
 
-Steve nobody asked in front of the whole employees to “Fuck off Micheal dell” when Mr.Dell asked Apple to sell the assets and give shareholder's monye back.
+Steve nobody asked in front of the whole employees to "Fuck off Micheal dell" when Mr.Dell asked Apple to sell the assets and give shareholder's monye back.
 
 Nobody reformed the entire team when Steve realized that MobileMe group could not deliver what they're supposed to deliver.
 
