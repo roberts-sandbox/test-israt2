@@ -13,7 +13,7 @@ a {
   left: 15px;
   top: 15px;
   width: 80px;
-  font-family: Helvetica, sans-serif; }
+  font-family: 'Open Sans', Helvetica, sans-serif; }
   .sidebar a {
     text-decoration: none; }
   .sidebar img {
@@ -151,7 +151,7 @@ a {
   .content .listing {
     margin: 10px 0 0 0;
     padding: 0;
-    font-family: Helvetica, sans-serif; }
+    font-family: 'Open Sans', Helvetica, sans-serif; }
     .content .listing ul {
       margin: 0;
       padding: 0; }
