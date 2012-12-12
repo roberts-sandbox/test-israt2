@@ -13,7 +13,7 @@ a {
   left: 15px;
   top: 15px;
   width: 80px;
-  font-family: Helvetica, sans-serif; }
+  font-family: 'Open Sans', Helvetica, sans-serif; }
   .sidebar a {
     text-decoration: none; }
   .sidebar img {
@@ -60,28 +60,28 @@ a {
   margin-bottom: 50px; }
   .content h1 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
-    font-weight: 400; }
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-weight: 700; }
   .content h1 a {
     color: #111;
     text-decoration: none; }
   .content h2 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
-    font-weight: 400; }
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-weight: 600; }
   .content h2 a {
     color: #111;
     text-decoration: none; }
   .content h3 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    font-family: "Open Sans", Helvetica, sans-serif;
     font-weight: 400; }
   .content h3 a {
     color: #111;
     text-decoration: none; }
   .content h4 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    font-family: "Open Sans", Helvetica, sans-serif;
     font-weight: 400; }
   .content h4 a {
     color: #111;
@@ -122,11 +122,13 @@ a {
     margin-bottom: 10px;
     line-height: 1.4em; }
   .content blockquote {
+    font-family: "Palatino Linotype", Georgia, serif;
     font-style: italic;
-    font-size: 14px;
+    font-size: 16px;
     padding: .25em 1em;
     margin: 1em 1em 0 1em;
-    color: #444; }
+	background-color: #FDF6E3;
+    color: #B58900; }
     .content blockquote cite:before {
       content: '— '; }
     .content blockquote cite {
@@ -137,21 +139,22 @@ a {
       font-style: normal; }
   .content .byline {
     margin-bottom: 17px;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    font-family: "Open Sans", Helvetica, sans-serif;
     padding-left: 0px;
     font-size: 17px;
     color: #777; }
   .content .aside {
-    background-color: #eeeeee;
+    background-color: #FDF6E3;
+	color: #B58900;
     padding: 14px;
     font-size: 14px;
     margin: 5px 0 15px 0;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Open Sans', Helvetica, sans-serif;
     line-height: 1.6em; }
   .content .listing {
     margin: 10px 0 0 0;
     padding: 0;
-    font-family: Helvetica, sans-serif; }
+    font-family: 'Open Sans', Helvetica, sans-serif; }
     .content .listing ul {
       margin: 0;
       padding: 0; }
@@ -171,7 +174,7 @@ a {
   .content .meta {
     margin: 30px 0;
     padding: 10px 0;
-    font-family: Helvetica, sans-serif; }
+    font-family: 'Open Sans', Helvetica, sans-serif; }
     .content .meta p {
       line-height: 1.4;
       font-size: 14px;

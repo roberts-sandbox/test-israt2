@@ -15,7 +15,7 @@ a {
   left: 15px;
   top: 15px;
   width: 80px;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Open Sans', Helvetica, sans-serif;
 
   a {
     text-decoration: none;
@@ -96,7 +96,7 @@ a {
   @each $number in 1,2,3,4 {
     h#{$number} {
       color: #333;
-      font-family: 'Yanone Kaffeesatz', Helvetica, sans-serif;
+      font-family: 'Open Sans', Helvetica, sans-serif;
       font-weight: 400;
     }
 
@@ -179,7 +179,7 @@ a {
 
   .byline {
     margin-bottom: 17px;
-    font-family: 'Yanone Kaffeesatz', Helvetica, sans-serif;
+    font-family: 'Open Sans', Helvetica, sans-serif;
     padding-left: 0px;
     font-size: 17px;
     color: #777;

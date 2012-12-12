@@ -7,7 +7,7 @@ comments: true
 ---
 
 <div class="aside">
-  <p> If all you've is a hammer, everything looks like a nail.</p>
+  If all you've is a hammer, everything looks like a nail.
 </div>
 
 This is became one of my favorite quote ever since I found. I am hard core C++ programmer thoughout my career. People admit my expertise in C++ and Windows Platform knowledge. I started everything with C, then C++, then Visual C++ etc. My knowledge was sufficient enough to carry out most of my assignments. 
