@@ -14,6 +14,6 @@ I did not want to take all effort of duplicating the colors and other elements i
 
 You can find the github theme for textmate [here](https://github.com/sbecker/github_textmate_theme) or you can use any of your favorite themes listed [here](http://wiki.macromates.com/Themes/UserSubmittedThemes)
 
-It's very simple. Copy the whole xml, paste it to [tmTheme2nppStyler](http://framework.lojcomm.com.br/tmTheme2nppStyler/). Download it, Save to <your_notepad++_installation folder>\themes. Restart Notepad++.
+It's very simple. Copy the whole xml, paste it to [tmTheme2nppStyler](http://framework.lojcomm.com.br/tmTheme2nppStyler/). Download it, Save to `<your_notepad++_installation folder>\themes`. Restart `Notepad++`.
 
-Initially the font name will be empty. You can set your favorite fonts in the global styles with the "Settings > Style Configurarator..." option. Also on the right bottom side you can apply the global font styles for all the syntaxes.
+Initially the font name will be empty. You can set your favorite fonts in the global styles with the `Settings > Style Configurarator...` option. Also on the right bottom side you can apply the global font styles for all the syntaxes.
