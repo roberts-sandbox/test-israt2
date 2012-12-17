@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Tools I use"
+date: 12:50 PM 12/17/2012
+comments: true
+categories: Tools
+---
+
 #Software List
 
 ## Windows Development
