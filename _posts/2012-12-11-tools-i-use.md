@@ -7,9 +7,12 @@ categories: Tools
 ---
 ## Windows Development
 - [Visual Studio 10](http://www.microsoft.com/visualstudio)
-- [Notepad++](http://notepad-plus-plus.org/)
 - [Eclipse Juno](http://www.eclipse.org/)
 - [Aptana Studio 3](http://www.aptana.com/)
+
+## Text Editors
+- [Notepad++](http://notepad-plus-plus.org/)
+- [gvim](http://www.vim.org/download.php)
 
 ## Compilers/Interpreters
 - [Python](http://www.python.org/)
