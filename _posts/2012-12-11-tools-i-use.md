@@ -5,9 +5,6 @@ date: 12:50 PM 12/17/2012
 comments: true
 categories: Tools
 ---
-
-#Software List
-
 ## Windows Development
 - [Visual Studio 10](http://www.microsoft.com/visualstudio)
 - [Notepad++](http://notepad-plus-plus.org/)
