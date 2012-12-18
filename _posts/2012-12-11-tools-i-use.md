@@ -19,6 +19,7 @@ categories: Tools
 - Consolas (default)
 
 I love open fonts and the best ones are 
+
 - [Bitstream Vera Sans Mono](http://en.wikipedia.org/wiki/Bitstream_Vera)
 - [Droid Sans Mono](http://www.google.com/webfonts/specimen/Droid+Sans+Mono)
 - [DejaVu Sans Mono](http://dejavu-fonts.org/wiki/Main_Page)
