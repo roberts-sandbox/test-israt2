@@ -14,6 +14,15 @@ categories: Tools
 - [Notepad++](http://notepad-plus-plus.org/)
 - [gvim](http://www.vim.org/download.php)
 
+## IDE Themes/Fonts
+- [Solarized](http://ethanschoonover.com/solarized) theme rules almost all my text editors and IDEs (including vim). This is the theme I love to work with as it's so easy on my eyes.
+- Consolas (default)
+
+I love open fonts and the best ones are 
+- [Bitstream Vera Sans Mono](http://en.wikipedia.org/wiki/Bitstream_Vera)
+- [Droid Sans Mono](http://www.google.com/webfonts/specimen/Droid+Sans+Mono)
+- [DejaVu Sans Mono](http://dejavu-fonts.org/wiki/Main_Page)
+
 ## Compilers/Interpreters
 - [Python](http://www.python.org/)
 - [Ruby](http://www.ruby-lang.org/)
