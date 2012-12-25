@@ -33,3 +33,6 @@ Blog posts uses only less amount HTML. Mostly text and image embedding commands.
 Now writing something on blog is simple as writing a text file. I use Google Docs to write my blogs and copy paste to a editor like Notepad++ and format it later. (Seriously thinking of a plugin which can ease up my job). I am pretty fine with any text editor; using Google Docs is simply for spell check.
 
 Finally if you want to generate this as any format, it's easy to write simple programs to parse it. The conversion across platforms are hell lot of simple.
+
+###Update: 2012-12-25
+ - Tumblr supports markdown flavor on web, [mobile and email](http://staff.tumblr.com/post/36234584/markdown-now-supported-via-email-mobile). On web you can change from the [settings page](https://www.tumblr.com/settings)
