@@ -21,3 +21,8 @@ It's important to have a `.gitignore` file in your respository. A simple `git ad
 It helps you to Clone,Repositories,Browse History,Commit Changes,Branch Code and Share on GitHub.com (as advertised on their website). The Metro style UI is really beautiful and this utility is very handy to work with GitHub.
 
 [Github for Windows](http://windows.github.com/)
+
+##Undoing the modifications
+
+You can use `git checkout` command for this. See the example below
+`git checkout -- <file-name>`
