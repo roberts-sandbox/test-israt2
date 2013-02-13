@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Long working hours and planning"
-date: 10:50 PM 13/02/2013
 comments: true
 categories: essays
 ---
