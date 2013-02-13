@@ -26,3 +26,9 @@ It helps you to Clone,Repositories,Browse History,Commit Changes,Branch Code and
 
 You can use `git checkout` command for this. See the example below
 `git checkout -- <file-name>`
+
+##Reset all the changes in the working directory
+
+`git reset --hard # removes staged and working directory changes`
+`git clean -f -d # remove untracked files`
+`git clean -f -x -d # CAUTION: as above but removes ignored files like config.`
