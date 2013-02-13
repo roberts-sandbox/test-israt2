@@ -98,6 +98,7 @@ a {
       color: #333;
       font-family: 'Open Sans', Helvetica, sans-serif;
       font-weight: 400;
+      text-transform:uppercase;
     }
 
     h#{$number} a {
@@ -165,7 +166,7 @@ a {
     color: #444;
 
     cite:before {
-      content: '— ';
+      content: 'ï¿½ ';
     }
 
     cite {
