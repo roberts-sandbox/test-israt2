@@ -16,7 +16,7 @@ I was up late night almost all the days few years back. Hell of stuffs were ther
 
 Upon seeing me frequently late at office, my client came and told me. 
 
-> "It's okay to stretch a day or two or maybe when you find it's so critical and unavoidable to stretch but if you consider this in the long run, this is not going to work. It's important to maintain work life balance. I used to leave at 2 AM from office and reaches here between 8-9 in the morning. I have been doing this for years and my new manager instructed me not to stretch beyond 10 PM. It's okay if you're sitting to learn something new but for the real work, the everyday-stretched hours indicate the problems in execution, planning or any other problems we need to solve. So think about it and see how better we can do this."
+> It's okay to stretch a day or two or maybe when you find it's so critical and unavoidable to stretch but if you consider this in the long run, this is not going to work. It's important to maintain work life balance. I used to leave at 2 AM from office and reaches here between 8-9 in the morning. I have been doing this for years and my new manager instructed me not to stretch beyond 10 PM. It's okay if you're sitting to learn something new but for the real work, the everyday-stretched hours indicate the problems in execution, planning or any other problems we need to solve. So think about it and see how better we can do this.
 
 This has helped a lot and eventually I off-loaded some of the tasks after bringing up two more people to make things better. I started seeing sunsets again.
 
