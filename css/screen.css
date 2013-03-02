@@ -98,7 +98,11 @@ a {
       color: #333;
       font-family: 'Open Sans', Helvetica, sans-serif;
       font-weight: 400;
+<<<<<<< HEAD
 	tex-transform:uppercase;
+=======
+      text-transform:uppercase;
+>>>>>>> f993b99b7377c60a9f0fb395ee222fe399955786
     }
 
     h#{$number} a {
@@ -166,7 +170,7 @@ a {
     color: #444;
 
     cite:before {
-      content: '— ';
+      content: 'ï¿½ ';
     }
 
     cite {
@@ -266,4 +270,8 @@ a {
       color: #fff;
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f993b99b7377c60a9f0fb395ee222fe399955786
