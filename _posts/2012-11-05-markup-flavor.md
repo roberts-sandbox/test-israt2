@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Markup Flavor"
-date: 10:01 PM 11/5/2012
+date: 5 November 2012
 comments: false
 categories: Technology
 ---

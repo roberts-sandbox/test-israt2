@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polyglot (Programming)"
-date: 2:25 PM 11/11/2012
+date: 11 November 2012
 categories: proramming
 comments: true
 ---

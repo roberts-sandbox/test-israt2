@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Raising the bar"
-date: 12:50 AM 10/22/2012
+date: 22 October 2012
 comments: true
 categories: Thoughts
 ---

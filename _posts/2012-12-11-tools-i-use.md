@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tools I use"
-date: 12:50 PM 12/17/2012
+date: 12 December 2012
 comments: true
 categories: Tools
 ---

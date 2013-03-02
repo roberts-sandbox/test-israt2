@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One year without Steve Jobs"
-date: 11:00 PM 10/07/2012
+date: 07 October 2012
 comments: true
 categories: Blogging
 ---

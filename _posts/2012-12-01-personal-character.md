@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Software Engineering & Personal Character - Gems from Code Complete"
-date: 11:26 PM 12/1/2012
+date: 01 December 2012
 comments: true
 categories: Blogging
 ---

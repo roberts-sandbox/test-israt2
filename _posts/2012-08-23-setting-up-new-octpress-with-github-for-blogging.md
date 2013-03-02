@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting up Octopress and Github for blogging."
-date: 2012-08-23 01:09
+date: 23 August 2012
 comments: false
 categories: Blogging
 ---

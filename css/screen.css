@@ -98,6 +98,7 @@ a {
       color: #333;
       font-family: 'Open Sans', Helvetica, sans-serif;
       font-weight: 400;
+	tex-transform:uppercase;
     }
 
     h#{$number} a {

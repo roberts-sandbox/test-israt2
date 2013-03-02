@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Compile them fast"
-date: 2012-08-23 01:09
+date: 23 August 2012
 comments: false
 categories: Programming
 ---

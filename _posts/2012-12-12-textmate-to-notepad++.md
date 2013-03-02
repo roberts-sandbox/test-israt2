@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beautify your notepad++ with textmate themes"
-date: 10:12 AM 12/12/2012
+date: 12 December 2012
 comments: true
 categories: Tips
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get your hands dirty"
-date: 2:30 AM 10/15/2012
+date: 15 October 2012
 comments: true
 categories: Thoughts
 ---

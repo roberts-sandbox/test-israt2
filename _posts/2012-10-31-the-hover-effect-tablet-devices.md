@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solving the hovering problem with touch devices"
-date: 10:36 31-10-2012
+date: 31 October 2012
 comments: true
 categories: Technology
 ---

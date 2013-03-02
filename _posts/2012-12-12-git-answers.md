@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your Git Answers"
-date: 2:30 AM 12/12/2012
+date: 12 December 2012
 comments: true
 categories: QA
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Markpad - Markup editor for Windows"
-date: 4:31 PM 9/29/2012
+date: 29 September 2012 
 comments: true
 categories: Blogging
 ---
