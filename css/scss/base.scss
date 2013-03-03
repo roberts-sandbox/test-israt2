@@ -13,7 +13,7 @@ $headline: "Open Sans", Helvetica, Arial, sans-serif;
 body {
   font-family: $sans;
   margin: 0;
-  -webkit-font-smoothing: antialiased;
+  font-weight: 100;
 }
 
 a {
@@ -24,7 +24,7 @@ a {
   position: fixed;
   left: 15px;
   top: 15px;
-  width: 80px;
+  width: 140px;
   font-family: $sans;
 
   a {
@@ -55,6 +55,7 @@ a {
   }
 
   .meta a {
+    font-size: 48px;
     margin-left: 5px;
     color: $black;
 
@@ -71,7 +72,7 @@ a {
       color: $black;
 	  text-transform: uppercase;
       font-weight: bold;
-      font-size: 12px;
+      font-size: 20px;
       display: block;
 
       &:hover {
@@ -92,7 +93,7 @@ a {
 }
 
 .content {
-  margin-left: 110px;
+  margin-left: 180px;
   width: 650px;
   margin-bottom: 50px;
 
@@ -102,6 +103,8 @@ a {
       color: #333;
       font-family: $headline;
       font-weight: 400;
+      text-transform: uppercase;
+      border-left: 7px solid rgb(238, 238, 238);
     }
 
     h#{$number} a {
@@ -128,7 +131,7 @@ a {
   }
 
   p {
-    font-size: 16px;
+    font-size: 20px;
     margin-top: 0;
     margin-bottom: 1.2em;
     line-height: 1.7em;
@@ -164,6 +167,7 @@ a {
   blockquote {
     font-style: italic;
     font-size: 14px;
+    border-left: 7px solid rgb(238, 238, 238);
     padding: .25em 1em;
     margin: 1em 1em 0 1em;
     color: #444;
@@ -209,7 +213,7 @@ a {
     }
 
     li {
-      font-size: 13px;
+      font-size: 20px;
       list-style: none;
       padding: 5px 3px;
       margin: 0;

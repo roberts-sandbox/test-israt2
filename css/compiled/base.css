@@ -2,7 +2,7 @@
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   margin: 0;
-  -webkit-font-smoothing: antialiased; }
+  font-weight: 100; }
 
 a {
   color: #227ce8; }
@@ -11,7 +11,7 @@ a {
   position: fixed;
   left: 15px;
   top: 15px;
-  width: 80px;
+  width: 140px;
   font-family: "Open Sans", Helvetica, Arial, sans-serif; }
   .sidebar a {
     text-decoration: none; }
@@ -31,6 +31,7 @@ a {
       letter-spacing: 5px;
       color: black; }
   .sidebar .meta a {
+    font-size: 48px;
     margin-left: 5px;
     color: black; }
     .sidebar .meta a:hover {
@@ -42,7 +43,7 @@ a {
       color: black;
       text-transform: uppercase;
       font-weight: bold;
-      font-size: 12px;
+      font-size: 20px;
       display: block; }
       .sidebar .sections a:hover {
         color: #227ce8; }
@@ -54,34 +55,42 @@ a {
       margin-bottom: 7px; }
 
 .content {
-  margin-left: 110px;
+  margin-left: 180px;
   width: 650px;
   margin-bottom: 50px; }
   .content h1 {
     color: #333;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
-    font-weight: 400; }
+    font-weight: 400;
+    text-transform: uppercase;
+    border-left: 7px solid #eeeeee; }
   .content h1 a {
     color: #111;
     text-decoration: none; }
   .content h2 {
     color: #333;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
-    font-weight: 400; }
+    font-weight: 400;
+    text-transform: uppercase;
+    border-left: 7px solid #eeeeee; }
   .content h2 a {
     color: #111;
     text-decoration: none; }
   .content h3 {
     color: #333;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
-    font-weight: 400; }
+    font-weight: 400;
+    text-transform: uppercase;
+    border-left: 7px solid #eeeeee; }
   .content h3 a {
     color: #111;
     text-decoration: none; }
   .content h4 {
     color: #333;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
-    font-weight: 400; }
+    font-weight: 400;
+    text-transform: uppercase;
+    border-left: 7px solid #eeeeee; }
   .content h4 a {
     color: #111;
     text-decoration: none; }
@@ -97,7 +106,7 @@ a {
     padding-bottom: 5px;
     margin-bottom: 10px; }
   .content p {
-    font-size: 16px;
+    font-size: 20px;
     margin-top: 0;
     margin-bottom: 1.2em;
     line-height: 1.7em; }
@@ -123,6 +132,7 @@ a {
   .content blockquote {
     font-style: italic;
     font-size: 14px;
+    border-left: 7px solid #eeeeee;
     padding: 0.25em 1em;
     margin: 1em 1em 0 1em;
     color: #444; }
@@ -155,7 +165,7 @@ a {
       margin: 0;
       padding: 0; }
     .content .listing li {
-      font-size: 13px;
+      font-size: 20px;
       list-style: none;
       padding: 5px 3px;
       margin: 0;
