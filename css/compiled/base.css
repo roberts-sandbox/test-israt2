@@ -30,6 +30,8 @@ a {
       font-size: 23px;
       letter-spacing: 5px;
       color: black; }
+  .sidebar .ss-googleplus {
+    color: red; }
   .sidebar .meta a {
     font-size: 48px;
     margin-left: 5px;
