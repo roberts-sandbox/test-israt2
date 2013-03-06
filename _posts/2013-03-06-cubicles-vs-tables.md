@@ -21,9 +21,9 @@ I have observed this several modern workplaces (yeah companies boast a lot about
 Some of the examples are quora, github, facebook; all these have really modern work environment.  (sorry too lazy to give the credits. All the photos belongs to their respective owners and websites)
 
 
-<img href="/images/posts/cubicles-vs-tables/github.jpg"></a>
+<img href="/images/posts/cubicles-vs-tables/github.jpg"></img>
 <br>
-<img href="/images/posts/cubicles-vs-tables/quora.jpg"></a>
+<img href="/images/posts/cubicles-vs-tables/quora.jpg"></img>
 <br>
 
 In the book, The Art of Agile Development it has mentioned about the importance to [sit together](http://www.jamesshore.com/Agile-Book/sit_together.html).
@@ -35,7 +35,7 @@ In the book, The Art of Agile Development it has mentioned about the importance 
 In the simplest form it appears like this ([taken from the story of sitting together](http://www.slideshare.net/zainabalikhan/the-story-of-sitting-together-final))
 
 
-<img href="/images/posts/cubicles-vs-tables/slide-1.jpg"></a>
+<img href="/images/posts/cubicles-vs-tables/slide-1.jpg"></img>
 <br>
 
 Agile way of working a hotcake in the industry. People wanted to ship products so often, especially web products. We really don’t need to think in terms of any agile way rather it’s important to have deep collaboration and communication between the people to solve the problems. Also teaming up together to solve problems is highly efficient than sitting isolated and work at a problem together makes huge impact on the thought process and time utilization.
