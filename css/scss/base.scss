@@ -4,8 +4,8 @@ $light-grey: #eeeeee;
 $blue:       #227CE8;
 
 $serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$sans: "Open Sans", Helvetica, Arial, sans-serif;
-$headline: "Open Sans", Helvetica, Arial, sans-serif;
+$sans: "Helvetica W01 Light", Helvetica, Arial, sans-serif;
+$headline: "Helvetica W02 Roman", Helvetica, Arial, sans-serif;
 
 * {
 }
@@ -13,7 +13,7 @@ $headline: "Open Sans", Helvetica, Arial, sans-serif;
 body {
   font-family: $sans;
   margin: 0;
-  font-weight: 100;
+  // font-weight: 100;
 }
 
 a {
