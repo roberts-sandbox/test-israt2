@@ -4,8 +4,8 @@ $light-grey: #eeeeee;
 $blue:       #227CE8;
 
 $serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$sans: "Helvetica W01 Light", Helvetica, Arial, sans-serif;
-$headline: "Helvetica W02 Roman", Helvetica, Arial, sans-serif;
+$sans: 'HelveticaNeueW01-45Ligh', Helvetica, Arial, sans-serif;
+$headline: 'HelveticaNeueW01-55Roma', Helvetica, Arial, sans-serif;
 
 * {
 }
@@ -13,7 +13,6 @@ $headline: "Helvetica W02 Roman", Helvetica, Arial, sans-serif;
 body {
   font-family: $sans;
   margin: 0;
-  // font-weight: 100;
 }
 
 a {
@@ -202,7 +201,7 @@ a {
     padding: 14px;
     font-size: 14px;
     margin: 5px 0 15px 0;
-    font-family: Helvetica, sans-serif;
+    font-family: $sans;
     line-height: 1.6em;
   }
 
