@@ -1,6 +1,7 @@
 @charset "IBM437";
 body {
-  font-family: "HelveticaNeueW01-45Ligh", Helvetica, Arial, sans-serif;
+  font-family: "PT Serif", "Book Antiqua", Palatino, serif;
+  font-weight: 100;
   margin: 0; }
 
 a {
@@ -11,7 +12,7 @@ a {
   left: 15px;
   top: 15px;
   width: 140px;
-  font-family: "HelveticaNeueW01-45Ligh", Helvetica, Arial, sans-serif; }
+  font-family: "PT Sans", Helvetica, Arial, sans-serif; }
   .sidebar a {
     text-decoration: none; }
   .sidebar img {
@@ -64,7 +65,8 @@ a {
     font-family: "HelveticaNeueW01-55Roma", Helvetica, Arial, sans-serif;
     font-weight: 400;
     text-transform: uppercase;
-    border-left: 7px solid #eeeeee; }
+    margin-left: 15px;
+    border-left: 7px solid #258aaf; }
   .content h1 a {
     color: #111;
     text-decoration: none; }
@@ -73,7 +75,8 @@ a {
     font-family: "HelveticaNeueW01-55Roma", Helvetica, Arial, sans-serif;
     font-weight: 400;
     text-transform: uppercase;
-    border-left: 7px solid #eeeeee; }
+    margin-left: 15px;
+    border-left: 7px solid #258aaf; }
   .content h2 a {
     color: #111;
     text-decoration: none; }
@@ -82,7 +85,8 @@ a {
     font-family: "HelveticaNeueW01-55Roma", Helvetica, Arial, sans-serif;
     font-weight: 400;
     text-transform: uppercase;
-    border-left: 7px solid #eeeeee; }
+    margin-left: 15px;
+    border-left: 7px solid #258aaf; }
   .content h3 a {
     color: #111;
     text-decoration: none; }
@@ -91,7 +95,8 @@ a {
     font-family: "HelveticaNeueW01-55Roma", Helvetica, Arial, sans-serif;
     font-weight: 400;
     text-transform: uppercase;
-    border-left: 7px solid #eeeeee; }
+    margin-left: 15px;
+    border-left: 7px solid #258aaf; }
   .content h4 a {
     color: #111;
     text-decoration: none; }
@@ -156,12 +161,12 @@ a {
     padding: 14px;
     font-size: 14px;
     margin: 5px 0 15px 0;
-    font-family: "HelveticaNeueW01-45Ligh", Helvetica, Arial, sans-serif;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
     line-height: 1.6em; }
   .content .listing {
     margin: 10px 0 0 0;
     padding: 0;
-    font-family: "HelveticaNeueW01-45Ligh", Helvetica, Arial, sans-serif; }
+    font-family: "PT Sans", Helvetica, Arial, sans-serif; }
     .content .listing ul {
       margin: 0;
       padding: 0; }
@@ -181,7 +186,7 @@ a {
   .content .meta {
     margin: 30px 0;
     padding: 10px 0;
-    font-family: "HelveticaNeueW01-45Ligh", Helvetica, Arial, sans-serif; }
+    font-family: "PT Sans", Helvetica, Arial, sans-serif; }
     .content .meta p {
       line-height: 1.4;
       font-size: 14px;
@@ -200,7 +205,7 @@ a {
     margin-right: 10px;
     padding: 5px 15px;
     border: 1px solid black;
-    font-family: "HelveticaNeueW01-45Ligh", Helvetica, Arial, sans-serif;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: 12px;
     font-weight: bold; }
   .content .talk-design .color .white {
