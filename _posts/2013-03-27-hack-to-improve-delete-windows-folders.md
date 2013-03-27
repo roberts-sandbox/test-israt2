@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Hack: How to delete Windows folder faster with shell?"
+title: "Hack: How to delete Windows folders faster with shell?"
 date: 27 March 2013
-categories: Windows
+categories: Hack
 comments: true
 ---
 
-People has love hate relationship with Windows shell. For me the biggest frustration about the shell is about copy and delete. Hell with "Calculating". It really sucks!
+People has love-hate relationship with Windows shell. For me the biggest frustration about the shell is about copy and delete. Hell with `Calculating...`. It really sucks!
 
 There are enough articles about how to delete a Windows directory faster around the web. This is not really a hackers way, a lazy man's way to do things.
 
