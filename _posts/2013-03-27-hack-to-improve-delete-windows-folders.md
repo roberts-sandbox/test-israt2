@@ -15,4 +15,4 @@ Suppose if you want to delete a large folder a `Shift+Delete` (sorry I am not re
  - Go ahead and presse `Alt+Enter` (Properties of the folder). Now Windows starts calculating the size of the folder and believe it or not, it's done pretty faster than the normal file delete dialog.
  - Now go ahead and `Shift+Delete` the same folder and enjoy skipping the `Calculating...` hell.
 
-I don't know why it's this is implemented. May be you should ask [Raymond Chen](http://blogs.msdn.com/b/oldnewthing/) for answers.
+I don't know why it's faster. Probably the way it uses the APIs. May be you should ask [Raymond Chen](http://blogs.msdn.com/b/oldnewthing/) for answers.
