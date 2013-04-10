@@ -19,3 +19,5 @@ Among all the alternatives and hacks, [Feedly](http://www.feedly.com/) is a soli
 [What we saw in the last couple of weeks with feedly is a beauty!](http://blog.feedly.com/) It’s a far better product than Google reader. Excellent sharing options (links, excerpts etc). Beautifully rendered pages, typography, shortcuts layout customizations and finally [facilitates all the possible ways to switch from Google Reader](http://blog.feedly.com/2013/03/14/tips-for-google-reader-users-migrating-to-feedly/) (without losing the essence of Feedly).
 
 Until the shutdown news, hardly anybody heard/used Feedly now something went bad turns out to be good for all.
+
+P.S: With this post, I never *intended* say Feedly or any other companies stopped innovation. They're brilliant and whenever required a solid product was ready to take up more users.
