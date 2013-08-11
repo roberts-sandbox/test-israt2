@@ -1,0 +1,91 @@
+---
+layout: layout
+title: "How I made this site?"
+---
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>{{ page.title }}</title>
+  <meta name="author" content="Sarath" />
+  <meta name="description" content="Writings by Sarath." />
+  <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/isarat" />
+  <link rel="stylesheet" href="/css/compiled/base.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="/css/plugins/pygments.css" type="text/css" />
+  <link href="/webfonts/ss-social.css" rel="stylesheet" />
+  <link media="only screen and (max-device-width: 480px)" href="/css/compiled/iphone.css" type="text/css" rel="stylesheet" />
+  <link media="only screen and (device-width: 768px)" href="/css/compiled/iphone.css" type="text/css" rel="stylesheet" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/compiled/application.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      {{ page.script }}
+    });
+  </script>
+</head>
+
+<body>
+  <section class="sidebar">
+    <a href="/">
+      <img src="/images/sarat_125.jpg" width="120" class="avatar" />
+    </a>
+
+    <section class="name">
+      <a href="/">
+        <span id="sarat">Sarath</span>
+      </a>
+    </section>
+
+    <section class="meta">
+      <h2>Subscribe</h2>
+      <a href="http://feeds.feedburner.com/isarat" class="ss-icon ss-social">rss</a>
+      <h2>Social</h2>
+      <a href="https://github.com/isarat" class="ss-icon ss-social">octocat</a>
+      <a href="https://plus.google.com/118248563399780256607" class="ss-icon ss-social">googleplus</a>
+      <a href="https://twitter.com/sarat" class="ss-icon ss-social">twitter</a>
+      <a href="http://t.sarat.in" class="ss-icon ss-social">tumblr</a>
+      <a href="http://instagram.com/sarath" class="ss-icon ss-social">instagram</a>
+      <a href="http://stackoverflow.com/users/59249/sarat" class="ss-icon ss-social">stackoverflow</a>
+    </section>
+
+    <section class="sections">
+      <ul>
+        <li><a href="/about">about</a></li>
+        <li><a href="/colophon">colophon</a></li>
+        <li><a href="/articles">published articles</a></li>
+      </ul>
+    </section>
+  </section>
+
+  <section class="content">
+	<h1>How I made this website?</h1>
+	<p><a href="http://github.com/isarat/isarat.github.com/">This website is a github page.</a></p>
+	
+	<p>The theme is forked from an awesome guy called <a href="http://zachholman.com">Zach Holman</a>. He made this with awesome receipies like HTML5, SCSS, Coffee Scripts, webfonts etc. Don't blame me if this website doesn't appear well on Internet Explorer</p>
+	
+	<p> I really appreciate the excellent fonts produced by <a href="http://symbolset.com/">Symbolset</a> which shows the social network symbols found on this websites. Holman's original page repo contains the copy of the social fonts he purchased but I really loved it and I purchased my own from their website.</a>
+	
+	<p>This website is tracked by <a href="http://google.com/analytics">Google Analytics</a> and currently not ads are displayed in this website.
+	
+	<h1>Where I was all these years?</h1>
+	<p> I have been blogging for years. Lot of technical tips I posted in my previous wordpress blog. Unfortunately I became so lazy to make better posts and was enjoying the traffic which was generated from my early popular posts. I decided to cannibalize the blog and start over something. The place I hosted my website was cheap but not so reliable. I wanted something simple, really hated FTPs, MySQLConsoles, backups and spammy plugings which has ruined my website once. Github is simple and plain. My posts are just few text files, I can take to anywhere. Also markup language of Github is awesome and not complications of HTML tags</p>
+	
+	<h1>What you will write here?</h1>
+	<p>I am a techy guy. Just expect some geeky stuff here. I decided not to blog the obvious which doesn't really add value to my effort rather than generating some traffic.</p>
+  </section>
+
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-2191463-7']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+</body>
+
+</html>
