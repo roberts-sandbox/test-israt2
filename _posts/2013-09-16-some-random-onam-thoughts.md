@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Some Random Thoughts"
+date: 16 September 2013
+comments: true
+categories: thoughts
+---
+
 # Some random Onam thoughts
 
 Wherever you're in this world, for a Keralite Onam is a festival bring back memories, fun and takes you back to home. Even you can't reach home, it definitely carry you towards your loved ones.
