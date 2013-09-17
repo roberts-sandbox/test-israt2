@@ -5,15 +5,14 @@ date: 18 September 2013
 comments: true
 categories: productivity
 ---
-
+*c
 Sitting at office and working late is considered to be a badge of honor in many companies. There are people who are obsessed over something and spend time is different from workaholism.
 
 # Over planning
-The problem I always found with people who sits late at office is they plan work after their regular office hours; just because they *can* sit late at office. 
-
+The problem I always found with people who sits late at office is they plan work after their regular office hours; just because they **can** sit late at office. 
 
 # Excuse for being not efficient
-If we are used with solving problems just by throwing hours effort rather improving efficiencies is absolutely dangerous. The smart people always look at solving problems efficiently and make their work and personal life balanced.
+We are in a dangerous situation if we get used with solving problems by simply extending working hours. We aren't putting any effort to improve the situation other than throwing hours at the problem. 
 
 # Ignorance is a different business
 You can't solve ignorance by sitting late at office. You have to **learn** things rather try to solve it using inelegant solutions. Inelegant solutions are always expensive and hard to maintain. 
