@@ -28,6 +28,7 @@ $ youtube-dl --console-title -f 37 <youtube url> # Download
 
 Here's a complete output of a sample video
 
+```
 Saraths-MacBook-Air:Downloads sarat$ youtube-dl -F http://www.youtube.com/watch?v=vNJhTqh4cmo
 [youtube] Setting language
 [youtube] vNJhTqh4cmo: Downloading video webpage
