@@ -5,8 +5,7 @@ date: 24 September 2013
 comments: false
 categories: Blogging
 ---
-
-I bumped in to this utility when I updated my Homebrew formulas and found it's super easy to download YouTube videos without the help of any thirdpary browser plugins or website
+I bumped in to this utility when I updated my Homebrew formulas and found it's super easy to download YouTube videos without the help of any thirdparty browser plugins or website
 
 This work in Windows, Linux and Mac; or in other words wherever you can run Python. You can [download it from Github for your platform](http://rg3.github.io/youtube-dl/). I go for Homebrew way with my Mac.
 
@@ -16,7 +15,6 @@ This work in Windows, Linux and Mac; or in other words wherever you can run Pyth
 
 ## How to download 
 It's simple two step process if you don't know the resolution code. and it's just a command if you can provide the resolution to download or just let it download in the SD  resolution.
-
 
 ```
 $ youtube-dl -F <youtube url> # lists information about video
