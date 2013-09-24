@@ -18,6 +18,7 @@ It's simple two step process if you don't know the resolution code. and it's jus
 
 ```
 $ youtube-dl -F <youtube url> # lists information about video
+
 $ youtube-dl --console-title -f 37 <youtube url> # Download
 ```
 
