@@ -19,11 +19,8 @@ It's simple two step process if you don't know the resolution code. and it's jus
 
 
 ```
-
 $ youtube-dl -F <youtube url> # lists information about video
-
 $ youtube-dl --console-title -f 37 <youtube url> # Download
-
 ```
 
 Here's a complete output of a sample video
@@ -62,5 +59,4 @@ Saraths-MacBook-Air:Downloads sarat$ youtube-dl --console-title -f 37 http://www
 [youtube] vNJhTqh4cmo: Downloading video info webpage
 [youtube] vNJhTqh4cmo: Extracting video information
 [download] Destination: Enthanu Bhai - Da Thadiya-vNJhTqh4cmo.mp4
-
 ```
