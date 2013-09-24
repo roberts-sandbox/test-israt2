@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting up Octopress and Github for blogging."
+title: "Geeking out YouTube video download with youtube-dl"
 date: 24 September 2013
 comments: false
 categories: Blogging
