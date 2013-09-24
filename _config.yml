@@ -1,17 +1,2 @@
-title:            SARATH - @sarat
-description:      Writings by Sarath
-url:              http://sarat.in/
-signoff:          sarat
-disqus_shortname: isarat
-google_analytics: UA-2191463-7
-
-links:
-  - name:         About
-    url:          /about.html
-  - name:         GitHub
-    url:          http://github.com/isarat
-    external:     true
-pygments:         true
-permalink:        pretty
 markdown:         redcarpet 
 
